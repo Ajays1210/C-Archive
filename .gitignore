@@ -1,0 +1,13 @@
+﻿# C build outputs
+*.exe
+*.out
+*.o
+cmake-build-*/
+build/
+
+# IDE
+.idea/*
+
+# OS
+.DS_Store
+Thumbs.db
